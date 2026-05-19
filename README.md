@@ -1,76 +1,88 @@
-<h1 align="center">Hi 👋, I'm Mostapha Gamal</h1>
-<h3 align="center">AI Engineer | Data Analyst | Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Mostafa Gamal</h1>
+<h3 align="center">AI Engineer | Data Analyst | Machine Learning Engineer</h3>
 
 <p align="center">
-  Passionate about building intelligent systems, extracting insights from data, and solving real-world problems using Artificial Intelligence and Data Analytics.
+  Passionate about Artificial Intelligence, Data Analytics, and building intelligent systems that solve real-world problems.
+</p>
+
+<p align="center">
+  <a href="https://github.com/0xMOSTAPHA">
+    <img src="https://komarev.com/ghpvc/?username=0xMOSTAPHA&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://eg.linkedin.com/in/0xmostapha">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 AI Engineer & Data Analyst  
-- 🤖 Passionate about **Machine Learning, Deep Learning, and NLP**
-- 📊 Skilled in transforming raw data into actionable insights
-- 🔍 Interested in **Computer Vision, Predictive Modeling, and Data-Driven Solutions**
+- 🤖 AI Engineer & Data Analyst  
+- 📊 Passionate about transforming data into meaningful insights  
+- 🧠 Interested in **Machine Learning, Deep Learning, NLP, and Computer Vision**
+- 📈 Skilled in building **data-driven and intelligent solutions**
 - 🌱 Continuously learning and exploring advanced AI technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 💻 Programming & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,docker,git" />
+</p>
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Machine Learning & AI
+### 🤖 Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Data Analytics & Visualization
+### 📊 Data Analytics & Visualization
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### Backend & Deployment
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🧠 AI Domains
+`Machine Learning` • `Deep Learning` • `NLP` • `Computer Vision` • `Predictive Modeling` • `Data Analytics`
 
 ---
 
-## 📌 Areas of Interest
+## 📌 Featured Skills
 
-- Machine Learning  
-- Deep Learning  
-- Natural Language Processing (NLP)  
-- Computer Vision  
-- Data Analytics & Visualization  
-- Predictive Modeling  
+```python
+class MostaphaGamal:
 
----
+    def __init__(self):
+        self.role = ["AI Engineer", "Data Analyst"]
 
-## 📈 GitHub Stats
+        self.languages = ["Python", "SQL"]
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xMOSTAPHA&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMOSTAPHA&layout=compact&theme=default&hide_border=true" width="48%" />
-</p>
+        self.ai_stack = [
+            "TensorFlow",
+            "PyTorch",
+            "Scikit-learn",
+            "OpenCV",
+            "NLP"
+        ]
 
----
+        self.data_tools = [
+            "Pandas",
+            "NumPy",
+            "Power BI",
+            "Tableau"
+        ]
 
-## 📫 Connect With Me
+        self.backend_tools = [
+            "FastAPI",
+            "Docker",
+            "Git"
+        ]
 
-<p align="left">
-<a href="https://github.com/0xMOSTAPHA" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
-
----
-
-⭐ **“Turning data into insights and ideas into intelligent solutions.”**
+    def mission(self):
+        return "Turning data into insights and AI ideas into real-world solutions."
